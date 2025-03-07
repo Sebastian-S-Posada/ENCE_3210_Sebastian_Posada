@@ -13,7 +13,7 @@ Used alot of ChatGPT
 #include <DallasTemperature.h>
 #include <I2Cdev.h>
 #include <MPU6050.h>
-#include "images.h"  // Include your images header file
+#include "images.h"  
 
 // OLED display settings
 #define SCREEN_WIDTH 128
